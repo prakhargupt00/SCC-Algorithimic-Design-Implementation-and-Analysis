@@ -1,0 +1,4 @@
+Edge : 0->1
+Edge : 0->2
+
+Time taken by function: 1047 microseconds
